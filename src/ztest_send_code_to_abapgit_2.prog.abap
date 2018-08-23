@@ -5,4 +5,6 @@
 *&---------------------------------------------------------------------*
 REPORT ZTEST_SEND_CODE_TO_ABAPGIT_2.
 
-write 'bye'.
+write 'hi'.
+
+write 'welcome to smartshift'.

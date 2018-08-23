@@ -7,4 +7,4 @@ REPORT ZTEST_SEND_CODE_TO_ABAPGIT_2.
 
 write 'hi'.
 
-write 'welcome to smartshift, do not disturb'.
+write 'welcome to smartshift'.
